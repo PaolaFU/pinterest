@@ -1,0 +1,26 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+}
+
+ul{
+   list-style: none;
+}
+
+header ul li {
+
+
+}
+
+menu li{
+  display: inline;
+}
+
+div{
+   width: 1180px;
+   height: 41px;
+   border-radius: 5px;
+   background-color: #ECE8E7;
+   margin-left: 78px;
+}
